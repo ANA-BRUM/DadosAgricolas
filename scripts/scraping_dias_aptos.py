@@ -195,7 +195,7 @@ async def main():
                 if not id_cidade:
                     id_cidade = ids_nao_mapeados.get(municipio, None)
 
-            logger.info(f"Processando estação: {nome_estacao} (ID: {estacao_id})")
+            logger.info(f"Processando estação: {nome_estacao} (ID: {id_cidade})")
             
             # Itera sobre as 3 práticas agrícolas
             for pratica_agricola in ['1', '2', '3']:
