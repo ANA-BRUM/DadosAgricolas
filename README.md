@@ -6,7 +6,7 @@ Este matérial foi desenvolvido a partir de estudos relacionados ao MBA em Data 
 # Linguagem de Programação
 Python
 
-# Conteudo
+# Contéudo
 ## Pasta dados_metereologicos
 Neste local temos o resultado das coletas realizadas que tenham relação com dados climátivos e tambem a tabela de municipios.
 
